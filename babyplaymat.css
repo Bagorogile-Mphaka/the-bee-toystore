@@ -1,0 +1,12 @@
+body{border-style: solid;
+    border-color: black;
+    background-color: yellow;}
+    
+    img{width: 50%;
+    height: 50%;}
+    
+    p{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+    
+    a{color: black;}
+    
+     a:hover{color: cyan;}

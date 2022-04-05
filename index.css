@@ -1,0 +1,60 @@
+h1{color: black;
+text-align: center;
+font-size:50px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-decoration: underline;}
+
+body{background-color: yellow;}
+
+img{ 
+width: 250px;
+height: 200px;
+padding: 5px;
+border-style: solid;
+}
+
+
+.dropdown button{background: none;
+border-style: solid;
+color: white;
+font-size: 18px;}
+
+ul{position: absolute;
+background: white;
+width: 100px;
+list-style: none;
+border-radius: 5px;}
+
+a{color: black;}
+ a:hover{color: cyan;}
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+} 
